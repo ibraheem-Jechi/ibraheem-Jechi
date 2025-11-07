@@ -5,8 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%26+LAMP+Stack+Engineer;Agile+%26+SOLID+Practitioner)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" width="150" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/ibraheem-Jechi" width="150" style="border-radius:50%" />
 </p>
+
 
 <h2 align="center">Hi, I'm Ibrahim El Jichi 👋</h2>
 
