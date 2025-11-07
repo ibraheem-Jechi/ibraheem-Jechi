@@ -101,8 +101,9 @@ Currently interning at **UNRWA & The Digital Hub**, developing full-stack dashbo
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=ibraheem-Jechi&theme=onedark&title=Commit,Repositories,PullRequest&row=1&column=3" />
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibraheem-Jechi&theme=onedark&title=Commit,Repositories,Followers&row=1&column=3" alt="GitHub trophies" />
+</p>
 
 ---
 
