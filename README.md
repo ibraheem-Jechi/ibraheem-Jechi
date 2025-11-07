@@ -1,23 +1,37 @@
-<!-- Profile Header -->
+<!-- Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C6FF&height=200&section=header&text=Ibrahim%20El%20Jichi%20🌐&fontSize=45&fontColor=ffffff&animation=fadeIn)
+
+<!-- Profile Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%26+LAMP+Stack+Engineer;Agile+%26+SOLID+Practitioner)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" width="150" style="border-radius:50%" />
 </p>
 
-<h1 align="center">Hi, I'm Ibrahim El Jichi 👋</h1>
+<h2 align="center">Hi, I'm Ibrahim El Jichi 👋</h2>
 
 <p align="center">
   🎓 B.Eng. Computer Science & Communication Engineering <br/>
   💻 Full-Stack Developer | MERN & LAMP Stack | Agile Enthusiast <br/>
-  📍 Based in Lebanon | 🌐 <a href="https://www.linkedin.com/in/ibrahim-el-jichi/">LinkedIn</a>
+  📍 Lebanon  |  🌐 <a href="https://www.linkedin.com/in/ibrahim-el-jichi/">LinkedIn</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Full-Stack Web Developer** passionate about building secure, responsive, and scalable web applications.  
-I enjoy crafting clean UI/UX designs, applying SOLID principles, and working in **Agile** environments.  
-Currently interning at **UNRWA & The Digital Hub**, where I develop full-stack systems and dashboards.
+I’m a **Full-Stack Web Developer** passionate about building secure, responsive, and scalable web applications.  
+I love crafting clean UI/UX designs, applying SOLID principles, and working in **Agile** environments.  
+Currently interning at **UNRWA & The Digital Hub**, developing full-stack dashboards and role-based systems.
+
+---
+
+## 🔭 Currently Working On
+
+- 🚀 Full-stack internship at **UNRWA & The Digital Hub**
+- 🧱 Improving backend architecture with **Node.js** and **Laravel**
+- ⚙️ Learning **Docker**, **Kubernetes**, and **CI/CD**
+- 🎯 Building open-source projects to sharpen my skills
 
 ---
 
@@ -25,16 +39,16 @@ Currently interning at **UNRWA & The Digital Hub**, where I develop full-stack s
 
 ### 🧩 UNRWA & The Digital Hub — *Full-Stack Web Development Intern*  
 **July 2025 – Present**  
-- Built full-stack projects using **MERN**, **Laravel**, and **PHP/MySQL**.  
-- Created RESTful APIs with **Express.js**, **Next.js**, and **Laravel**.  
+- Developed full-stack projects using **MERN**, **Laravel**, and **PHP/MySQL**.  
+- Built RESTful APIs with **Express.js**, **Next.js**, and **Laravel**.  
 - Implemented SOLID architecture and design patterns.  
 - Delivered responsive dashboards and role-based admin systems.  
-- Worked in Agile sprints using **Jira** and **GitHub**.
+- Worked in Agile sprints with **Jira** & **GitHub**.
 
 ### 🌍 Freelance Web Developer — *Remote*  
 **June 2023 – Present**  
-- Delivered modern, user-focused websites and web apps.  
-- Collaborated with clients to create scalable and secure solutions.
+- Delivered modern, user-focused websites and apps.  
+- Collaborated with clients to create scalable, secure solutions.
 
 ---
 
@@ -42,15 +56,15 @@ Currently interning at **UNRWA & The Digital Hub**, where I develop full-stack s
 
 ### 🏪 Supermarket POS & Management System  
 **Tech:** MERN (MongoDB, Express.js, React, Node.js)  
-- Barcode-based product scanning, automated billing, and reports.  
+- Barcode-based scanning, automated billing, and reporting.  
 - Role-based access (Admin, Clerk, Accountant).  
-- Inventory tracking, low-stock alerts, and analytics dashboard.  
+- Inventory tracking with analytics dashboard.  
 [🔗 GitHub Repo](https://github.com/ibraheem-Jechi/POS-Supermarket)
 
 ### 🏢 The Digital Hub Informative Website  
 **Tech:** Laravel  
-- Responsive CMS with role-based access control.  
-- Admin dashboard for easy content management.  
+- Responsive CMS with role-based access.  
+- Admin dashboard for content management.  
 [🔗 GitHub Repo](https://github.com/ibraheem-Jechi/The-Digital-Hub-Website)
 
 ---
@@ -71,12 +85,12 @@ Currently interning at **UNRWA & The Digital Hub**, where I develop full-stack s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibraheem-Jechi&theme=react-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibraheem-Jechi&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibraheem-Jechi&show_icons=true&theme=tokyonight" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibraheem-Jechi&theme=react-dark" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheem-Jechi&layout=compact&theme=tokyonight" />
@@ -87,7 +101,7 @@ Currently interning at **UNRWA & The Digital Hub**, where I develop full-stack s
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibraheem-Jechi&theme=onedark&title=Commit,Repositories,Followers&row=1&column=3" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibraheem-Jechi&theme=onedark&title=Commit,Repositories,Stars&row=1&column=3" alt="GitHub trophies" />
 </p>
 
 ---
@@ -104,14 +118,23 @@ Currently interning at **UNRWA & The Digital Hub**, where I develop full-stack s
 
 ---
 
-## 🌐 Contact Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:Ibrahimj02@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ibrahim-el-jichi/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ibraheem-Jechi"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:Ibrahimj02@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px"/></a>
+  <a href="https://www.linkedin.com/in/ibrahim-el-jichi/"><img src="https://skillicons.dev/icons?i=linkedin" width="40px"/></a>
+  <a href="https://github.com/ibraheem-Jechi"><img src="https://skillicons.dev/icons?i=github" width="40px"/></a>
 </p>
 
 ---
 
-⭐ **“Clean code, clear design, continuous learning.”**  
+## 🎯 Fun Facts
+- 💬 I enjoy teaching and mentoring young developers.  
+- ⚡ Favorite motto: “Clean code, clear mind.”  
+- 🧩 Always learning something new in DevOps & cloud engineering.  
+
+---
+
+<p align="center">✨ “Continuous learning is the fuel of innovation.” ✨</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C6FF&height=120&section=footer)
