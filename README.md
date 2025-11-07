@@ -87,7 +87,7 @@ Currently interning at **UNRWA & The Digital Hub**, where I develop full-stack s
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibraheem-Jechi&theme=onedark&title=Commits,Repositories,Followers&row=1&column=3" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibraheem-Jechi&theme=onedark&title=Commit,Repositories,Followers&row=1&column=3" alt="GitHub trophies" />
 </p>
 
 ---
