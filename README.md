@@ -129,10 +129,17 @@ Currently interning at **UNRWA & The Digital Hub**, developing full-stack dashbo
 
 ---
 
-## 🎯 Fun Facts
-- 💬 I enjoy teaching and mentoring young developers.  
-- ⚡ Favorite motto: “Clean code, clear mind.”  
-- 🧩 Always learning something new in DevOps & cloud engineering.  
+## 🚀 Highlights
+- 🔭 Currently working on full-stack web apps at **UNRWA & The Digital Hub**
+- 💡 Experienced in **MERN** and **LAMP** stack development
+- 💬 Open to: *Full-Stack Developer • Frontend Engineer • Backend Engineer*
+- 🌱 Actively learning: **Cloud Deployment (AWS, Docker, Kubernetes)**
+- 🤝 Looking to collaborate on open-source projects and startups
+
+## 💡 Core Competencies
+`JavaScript` • `React.js` • `Node.js` • `Express.js` • `Next.js` • `Laravel`  
+`PHP` • `Python` • `MongoDB` • `MySQL` • `REST API` • `Docker`  
+`Git` • `Agile Development` • `UI/UX` • `Problem Solving` • `Teamwork`
 
 ---
 
