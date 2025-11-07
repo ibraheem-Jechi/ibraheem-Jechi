@@ -74,9 +74,9 @@ Currently interning at **UNRWA & The Digital Hub**, where I develop full-stack s
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibraheem-Jechi&theme=react-dark" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibraheem-Jechi&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheem-Jechi&layout=compact&theme=tokyonight" />
