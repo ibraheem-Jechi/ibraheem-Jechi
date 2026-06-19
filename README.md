@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C6FF&height=200&section=header&text=Ibrahim%20El%20Jichi%20🌐&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <!-- Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend+%26+API+Architecture+Specialist;Building+AI-Powered+Creator+Tools+%40+HAUZ;88%2B+Production+APIs+Shipped+%26+Counting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend+%26+API+Architecture+Specialist;Building+AI-Powered+Creator+Tools+%40+HAUZ;88%2B+Production+APIs+Shipped+%26+Counting)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ibraheem-Jechi" width="150" style="border-radius:50%" />
@@ -86,7 +86,7 @@ I care about **SOLID principles**, **testable architecture**, and APIs that don'
 - Full-stack dormitory marketplace — listings, search/filter, auth, dynamic content pages
 - ⚡ Chose **SSR over CSR** to fix initial load performance on search-heavy listing pages — cutting time-to-content significantly
 - Deployed to **Vercel** with CI/CD pipeline for continuous delivery
-- [🔗 GitHub Repo](https://github.com/ibraheem-Jechi)
+- [🔗 GitHub Repo](https://github.com/ibraheem-Jechi/RentHub)
 
 ### 🏢 The Digital Hub — Informative Web Platform
 **Tech:** Laravel · PHP · MySQL
